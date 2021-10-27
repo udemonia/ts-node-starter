@@ -1,0 +1,25 @@
+{
+  "name": "ts-node-starter",
+  "version": "1.0.0",
+  "description": "starter bundle for typescript and node",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udemonia/ts-node-starter.git"
+  },
+  "keywords": [
+    "node",
+    "typescript",
+    "ts-node",
+    "typescript"
+  ],
+  "author": "brandon lambert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udemonia/ts-node-starter/issues"
+  },
+  "homepage": "https://github.com/udemonia/ts-node-starter#readme"
+}
